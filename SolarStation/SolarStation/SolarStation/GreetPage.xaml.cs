@@ -10,13 +10,13 @@ namespace SolarStation
         public GreetPage()
         {
             InitializeComponent();
-            // Below it similar to GreetPage.xaml label
-            //Content = new Label
-            //{
-            //    HorizontalOptions = LayoutOptions.Center,
-            //    VerticalOptions = LayoutOptions.Center,
-            //    Text = "enerfi",
-            //};
+
+            slider.Value= 0.5;
         }
+        void Handle_ValueChanged(object sender, Xamarin.Forms.ValueChangedEventArgs e)
+        {
+            throw new NotImplementedException();
+            label.Text = String.Format(" Value is {0:F2}", e.NewValue);
+        } 
     }
 }
