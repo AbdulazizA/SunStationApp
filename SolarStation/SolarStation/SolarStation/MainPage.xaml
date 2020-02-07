@@ -4,13 +4,18 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="SolarStation.MainPage">
+             x:Class="SolarStation.MainPage"
+             BackgroundColor="#ffc303" >
 
-    <StackLayout>
+    <StackLayout HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand">
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="enerfi" 
            HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+           VerticalOptions="CenterAndExpand"
+           FontSize="130" 
+           TextColor="White"/>
+        <Slider/>
     </StackLayout>
 
 </ContentPage>

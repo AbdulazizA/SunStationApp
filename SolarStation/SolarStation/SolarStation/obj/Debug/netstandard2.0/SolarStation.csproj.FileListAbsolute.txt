@@ -1,0 +1,13 @@
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\bin\Debug\netstandard2.0\SolarStation.deps.json
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\bin\Debug\netstandard2.0\SolarStation.dll
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\bin\Debug\netstandard2.0\ref\SolarStation.dll
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\bin\Debug\netstandard2.0\SolarStation.pdb
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\obj\Debug\netstandard2.0\SolarStation.csprojAssemblyReference.cache
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\obj\Debug\netstandard2.0\SolarStation.AssemblyInfoInputs.cache
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\obj\Debug\netstandard2.0\SolarStation.AssemblyInfo.cs
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\obj\Debug\netstandard2.0\SolarStation.dll
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\obj\Debug\netstandard2.0\ref\SolarStation.dll
+C:\Users\User2\Desktop\SunStationApp\SunStationApp\SolarStation\SolarStation\SolarStation\obj\Debug\netstandard2.0\SolarStation.pdb
